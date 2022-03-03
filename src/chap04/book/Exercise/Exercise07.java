@@ -13,7 +13,7 @@ public class Exercise07 {
 			System.out.println("---------------------------------");
 			System.out.println("1.예금 | 2.출금 | 3.잔고 | 4.종료");
 			System.out.println("---------------------------------");
-			System.out.print("선택");
+			System.out.print("선택>");
 			
 			int num = scanner.nextInt();
 			int money = 0;
