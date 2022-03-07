@@ -1,6 +1,6 @@
 package chap05.book;
 
-public class ArrayCreateByValueListExample {
+public class ArrayCreateByValueListExample1 {
 	public static void main(String[] args) {
 		int[] scores = { 83, 90, 87 };
 
