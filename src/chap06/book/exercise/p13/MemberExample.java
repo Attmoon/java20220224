@@ -11,6 +11,9 @@ public class MemberExample {
 		Member m2 = new Member();
 		m2.name = "donald";
 		m2.id = "trump";
-		m2.password = 
+		m2.password = "ny";
+		m2.age = 99;
+		
+		
 	}
 }
