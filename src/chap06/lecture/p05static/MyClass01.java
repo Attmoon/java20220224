@@ -6,7 +6,7 @@ public class MyClass01 {
 	static int height; // 클래스 필드(static 필드)
 	
 	static void method2() { // 클래스 메소드(static 메소드)
-		
+		System.out.println("mymethod");
 	}
 	
 	int age;

@@ -15,5 +15,8 @@ public class App01 {
 //		MyClass01.age = 99; // x
 		MyClass01.method2();
 //		MyClass01.method1(); // x
+		
+		System.out.println(MyClass01.height);
+		
 	}
 }
