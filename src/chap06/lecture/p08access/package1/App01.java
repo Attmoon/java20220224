@@ -16,7 +16,7 @@ public class App01 {
 		
 		// public : 모두 접근 가능
 		// protected : 다른 패키지에 있지만 상속받은 클래스 내에서 접근 가능
-		// default(package private) : 같은 패지키지 내에서 접근 가능
+		// default(package private) : 같은 패키지 내에서 접근 가능
 		// private : 클래스 내에서만 접근 가능
 	}
 }
