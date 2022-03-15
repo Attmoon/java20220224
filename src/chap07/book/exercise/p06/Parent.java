@@ -10,6 +10,6 @@ public class Parent {
 	
 	public Parent(String nation) {
 		this.nation = nation;
-		System.out.println("Child(String name) call");
+		System.out.println("Parent(String nation) call");
 	}
 }
