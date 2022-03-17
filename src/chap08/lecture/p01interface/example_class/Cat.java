@@ -6,5 +6,10 @@ public class Cat extends Feline implements Pet {
 	public void cry() {
 		System.out.println("야옹~");
 	}
+	
+	@Override
+	public void roll() {
+		System.out.println("고양이가 무시합니다.");
+	}
 
 }
