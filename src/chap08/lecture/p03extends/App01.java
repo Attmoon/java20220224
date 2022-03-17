@@ -21,5 +21,10 @@ public class App01 {
 		sub1.superMethod2();
 //		super1.superMethod2(); // 
 		super2.superMethod2();
+		
+		// default method
+		o1.superDefaultMethod1();
+		sub1.superDefaultMethod1();
+		super1.superDefaultMethod1();
 	}
 }
