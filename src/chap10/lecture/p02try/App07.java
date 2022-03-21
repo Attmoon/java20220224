@@ -1,6 +1,5 @@
 package chap10.lecture.p02try;
 
-import sun.java2d.pipe.NullPipe;
 
 public class App07 {
 	public static void main(String[] args) {
