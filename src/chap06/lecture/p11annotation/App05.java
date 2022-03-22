@@ -9,4 +9,9 @@ class MyClass5 {
 	void method() {
 		
 	}
+	
+	@MyAnnotation5(name = "java")
+	void method2() {
+		
+	}
 }
