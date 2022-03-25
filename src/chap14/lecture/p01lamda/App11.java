@@ -2,7 +2,7 @@ package chap14.lecture.p01lamda;
 
 import java.util.ArrayList;
 
-public class App10 {
+public class App11 {
 	public static void main(String[] args) {
 ArrayList<String> list1 = new ArrayList<>();
 		
@@ -12,8 +12,9 @@ ArrayList<String> list1 = new ArrayList<>();
 		list1.add("jsp");
 		list1.add("friday");
 		
-		list1.replaceAll(c -> "hi");
+		list1.removeIf(e -> e.startsWith("j"));
+		System.out.println(list1.size());
 		
-		list1.forEach(e -> System.out.println(e));
+		System.out.println(list1);
 	}
 }
